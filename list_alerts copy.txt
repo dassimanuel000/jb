@@ -1,0 +1,203 @@
+"gitlab-runner" "offre d'emploi" OR "job offer"
+agap2 devops
+auto site:migros-gruppe.jobs
+data engineer job france
+deploy engineer site:openai.com
+"devops" bank of africa
+"devops" banque mondiale
+"devops" Bernex
+"devops" Delémont
+"devops" Diekirch
+"devops" Differdange
+"devops" Dudelange
+"devops" Echternach
+"devops" entry level france
+"devops" Esch-sur-Alzette
+"devops" fmi job
+"devops" french site:careers.db.com
+"devops" fribourg
+"devops" GE HealthCare France
+"devops" geneve
+"devops" Gland
+"devops" job site:ibm.com
+"devops" Lancy
+"devops" Lausanne
+"devops" Lavaux
+"devops" Luxembourg
+"devops" Morges
+"devops" Murten
+"devops" nantes
+"devops" Neuchâtel
+"devops" Nyon
+"devops" Pully
+"devops" Rolle Switzerland
+"devops" Sierre
+"devops" Sion
+"devops" site:abps.ch
+"devops" site:acareerbyagl.talent-soft.com
+"devops" site:afdb.org
+"devops" site:airliquidehr.wd3.myworkdayjobs.com
+"devops" site:akkodis.com
+"devops" site:aminagroup.com
+"devops" site:arabbank.ch
+"devops" site:aviva.wd1.myworkdayjobs.com/
+"devops" site:bank-of-africa.net
+"devops" site:bankofafricaunitedkingdom.co.uk
+"devops" site:banquemondiale.org
+"devops" site:bcge.ch
+"devops" site:bcp.bank
+"devops" site:bcvs.ch
+"devops" site:boakenya.com
+"devops" site:boauganda.com
+"devops" site:bouygues.com
+"devops" site:bp.com
+"devops" site:careers.bankaudi.com
+"devops" site:careers.bankaudi.com.lb
+"devops" site:careers.bouygues-construction.com
+"devops" site:careers.danone.com
+"devops" site:careers.db.com
+"devops" site:careers.deliveroo.co.uk
+"devops" site:careers.gevernova.com
+"devops" site:careers.ibm.com
+"devops" site:careers.ing.com
+"devops" site:careers.pkb.ch
+"devops" site:careers.smartrecruiters.com
+"devops" site:careers.smartrecruiters.com/OECD/oecd---en
+"devops" site:careers.societegenerale.com
+"devops" site:careers.stellantis.com
+"devops" site:careers.ui.com
+"devops" site:careers.un.org
+"devops" site:careers.unilever.com
+"devops" site:careersinafrica.com
+"devops" site:carrieres.bollore.com
+"devops" site:cevalogistics.com
+"devops" site:cfaocareers.talent-soft.com
+"devops" site:cic.ch
+"devops" site:community.workday.com
+"devops" site:credit-suisse.com
+"devops" site:csod.com
+"devops" site:datacareer.ch
+"devops" site:db.wd3.myworkdayjobs.com
+"devops" site:deloitte.com
+"devops" site:diageo.com
+"devops" site:drc.ngo
+"devops" site:emploi-suisse.com
+"devops" site:emplois.kpmg.fr
+"devops" site:energyjobline.com
+"devops" site:europecareers.bank-abc.com
+"devops" site:evoketechnologies.com
+"devops" site:fa-emqf-saasfaprod1.fa.ocs.oraclecloud.com
+"devops" site:fa-eqai-saasfaprod1.fa.ocs.oraclecloud.com
+"devops" site:fco.tal.net
+"devops" site:gonet.ch
+"devops" site:groupecreditagricole.jobs
+"devops" site:groupefdj.wd103.myworkdayjobs.com
+"devops" site:gxpeople.com
+"devops" site:heritage.ch
+"devops" site:higher.gs.com
+"devops" site:hsbc.taleo.net
+"devops" site:imf.org
+"devops" site:ing.wd3.myworkdayjobs.com
+"devops" site:jobs.accaglobal.com
+"devops" site:jobs.ashbyhq.com
+"devops" site:jobs.eramet.com
+"devops" site:jobs.iqvia.com
+"devops" site:jobs.raiffeisen.ch
+"devops" site:jobs.sanofi.com
+"devops" site:jobs.shkb.ch
+"devops" site:jobs.siemens-energy.com
+"devops" site:jobs.totalenergies.com
+"devops" site:jobs.ubs.com
+"devops" site:jobs.undp.org
+"devops" site:jobs.veolia.com
+"devops" site:jobsearch.alstom.com
+"devops" site:joinus.saint-gobain.com
+"devops" site:jpmorgan.com
+"devops" site:kpmguscareers.com
+"devops" site:lemonde.fr
+"devops" site:lgt.com
+"devops" site:linkedin.com/jobs/vivendi-jobs-worldwide/
+"devops" site:mbaerbank.com
+"devops" site:mbda-systems.com
+"devops" site:mbdacareers.co.uk
+"devops" site:michaelpageafrica.com
+"devops" site:migros-gruppe.jobs
+"devops" site:mirabaud.com
+"devops" site:morganstanley.eightfold.ai
+"devops" site:mycareer.hsbc.com
+"devops" site:mycvtheque.com
+"devops" site:myworkdayjobs.com
+"devops" site:navan.com
+"devops" site:nestle.co.uk
+"devops" site:nestle.com
+"devops" site:nsiabanque.ci
+"devops" site:oecd.org
+"devops" site:openai.com
+"devops" site:openai.com
+"devops" site:opportunities.vodafone.com
+"devops" site:oraclecloud.com
+"devops" site:orange-business.com
+"devops" site:orange.com
+"devops" site:orano.group
+"devops" site:pgcareers.com
+"devops" site:piguetgalland.ch
+"devops" site:pwc.com
+"devops" site:rothschildandco.wd3.myworkdayjobs.com
+"devops" site:schroders.referrals.selectminds.com
+"devops" site:servair.fr
+"devops" site:sgkb.ch
+"devops" site:sn.expertini.com
+"devops" site:successfactors.com
+"devops" site:successfactors.eu
+"devops" site:swissquote.com
+"devops" site:szkb.ch
+"devops" site:talent-soft.com
+"devops" site:ubp.com
+"devops" site:ukb.ch
+"devops" site:undp.org
+"devops" site:unjobs.org
+"devops" site:untalent.org
+"devops" site:vodafone.com
+"devops" site:wd3.myworkdayjobs.com
+"devops" site:westfield.com
+"devops" site:wir.ch
+"devops" site:workable.com
+"devops" site:worldbankgroup.csod.com
+"devops" site:zugerkb.ch
+"devops" Troinex
+"devops" vaud switzerland
+"devops" vauds
+"devops" Verbier
+"devops" Versoix
+"devops" Veyrier
+"devops" Wiltz
+"devops" Yverdon-les-Bains
+"devops" Yvonand
+engineer site:gatesfoundation.wd1.myworkdayjobs.com
+engineer site:alios-finance.com
+engineer site:careersinafrica.com
+engineer site:cevalogistics.com
+engineer site:energyjobline.com
+engineer site:jobs.accaglobal.com
+engineer site:nestle-cwa.com
+engineer site:unjobs.org
+entry level site:openai.com
+fa-evht-saasfaprod1.fa.ocs.oraclecloud.com
+flutter design ui
+Flutter desktop
+french site:careers.db.com
+gitlab CI CD France
+gitlab CI CD Geneve
+gitlab CI CD luxembourg
+gitlab CI CD suisse
+gitlab-runner site:indeed.com
+gitlab-runner site:linkedin.com
+ingenieur site:beac.int
+ingenieur site:deloitte.com
+ingenieur site:jobs.accaglobal.com
+ingenieur site:unjobs.org
+IT site:beac.int
+job Engineer site:openai.com
+job enseignant en informatique
+senegal site:jobs.siemens-energy.com
+Systems Engineer site:openai.com
