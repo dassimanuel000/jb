@@ -1,5 +1,4 @@
 
-
 ### ✅ **Propositions d'attributs utiles à suivre** :
 
 | Field              | Description |
